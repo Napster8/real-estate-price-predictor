@@ -12,5 +12,5 @@ Area (sq. ft). This application was built on a [Kaggle Dataset](https://www.kagg
 * Deployment on: Heroku
 * Backend Logic: Python and Scikit Learn Library to build the Machine Learning Model.
 
-**Note:** The prime focus was to come up with the accurate logic behind the prediction, which involved various data-preprocessing, Hot encoding, analyzing outliers, comapritive studies on machine learning models and finally choosing the most accurate one.
+**Note:** The prime focus was to come up with the accurate logic behind the prediction, which involved various data-preprocessing, Hot encoding, analyzing outliers, comparitive studies on machine learning models and finally choosing the most accurate one.
 
