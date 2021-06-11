@@ -1,5 +1,7 @@
 # Real Estate Home Price Predictor
 
+![alt text](https://github.com/Napster8/real-estate-price-predictor/blob/Napster8/raghutapas12/templates/screenshot.jpg "Bengaluru Real Estate Home Price Predictor")
+
 Ever wondered how the Websites like "99Acres", "Zameen No. 1", "Auction.com" and other real estate commission websites predict prices?
 
 This Flask Web Application predicts real estate prices of houses in Bengaluru, Karnataka, India given the inputs such as number of Bedrooms, Location, Bathrrooms, 
